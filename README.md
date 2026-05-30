@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Mayar Hawary 👋
 
-<!--
-**Mayar-Hawary/Mayar-Hawary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Computer Science Student at AASTMT
 
-Here are some ideas to get you started:
+📱 Flutter Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 UI Designer (Figma)
+
+💻 Interested in Software Engineering, Mobile App Development, and UI Design
+
+🚀 Currently Seeking Internship Opportunities
+
+
+## 🛠️ Skills
+
+- Flutter
+- Dart
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Figma
+- User Interface Design
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Algorithms
+- Problem Solving
+- Communication
+
+
+## 🌱 Currently Learning
+
+- Flutter Development
+- Mobile Application Development
+- Software Engineering
+- UI/UX Design
+
+
+## 🎯 Interests
+
+- Mobile App Development
+- Software Engineering
+- User Interface Design
+- Problem Solving
+- Technology & Innovation
+
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mayar-hawary-73
