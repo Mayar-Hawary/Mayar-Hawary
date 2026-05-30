@@ -4,7 +4,7 @@
 
 📱 Flutter Developer
 
-🎨 🎨 UI Design using Figma
+🎨 UI Design using Figma
 
 💻 Interested in Software Engineering, Mobile App Development, and UI Design
 
